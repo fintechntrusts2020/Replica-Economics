@@ -1,5 +1,6 @@
 ---
 title: Why Replica Exists?
+lang: en
 subtitle: Our Purpose
 description: The history behind Replica
 featured_image: /images/origin2.jpeg
