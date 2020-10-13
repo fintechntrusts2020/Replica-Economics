@@ -59,6 +59,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
+  telegram_rul: ''
 
 color_settings:
   background_color: '#ffffff'
