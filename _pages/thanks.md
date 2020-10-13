@@ -1,5 +1,6 @@
 ---
 title: Thank you
+lang: en
 subtitle: Your message was sent successfully.
 description: A member of community will be in touch with you soon. 
 featured_image: /images/demo/contact.jpg
