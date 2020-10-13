@@ -9,7 +9,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Overview'
-      url: '/overview/'
+      url: ''
     - title: 'Mission'
       url: '/mission/'
     - title: 'Origin'
