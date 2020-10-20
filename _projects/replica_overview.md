@@ -34,7 +34,7 @@ Coming Soon...
 **Exchanges**
   * [Anycoin.cash](https://www.anycoin.cash/)
    (Supplied 100,000.0 REP 10/4/20)
-  * [Memo.cash](https://memo.cash/)
+  * [Memo.cash](https://memo.cash/token/cf83b1400aa9b6dbfdcdd8857571220a3e854b0188edabd260119edd8b57d3e3?for-sale)
    (Supplied 100,000.0 REP 10/5/20)
    
 **Network Websites**
