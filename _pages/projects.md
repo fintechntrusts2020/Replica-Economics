@@ -9,13 +9,9 @@ featured_image: /images/projects.jpg
 ## SmartSwap Development/Liquidity Funding Event #1
 
 |Event Start Date: November 1, 2020|
-|----------------------------------|
 |Event End Date: December 1, 2020  |
-|----------------------------------|
 |Funding Target: 25 BCH            | 
-|----------------------------------|
 |Development Start Date: TBD       |
-|----------------------------------|
 |Development End Date: TBD         |
 
 * ***Development estimation time is roughly a few weeks.*** 
@@ -28,13 +24,9 @@ SmartSwap will be one of first exclusive stand alone defi based exchanges for th
 ## Automated Dividend Calculator/Liquidity Funding Event #1
 
 |Event Start Date: November 1, 2020|
-|----------------------------------|
 |Event End Date: December 1, 2020  |
-|----------------------------------|
 |Funding Target: 25 BCH            | 
-|----------------------------------|
 |Development Start Date: TBD       |
-|----------------------------------|
 |Development End Date: TBD         |
 
 **Automated Dividend Calculator**
