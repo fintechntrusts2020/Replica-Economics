@@ -14,8 +14,11 @@ menu_settings:
       url: '/mission/'
     - title: 'Origin'
       url: '/origin'
+    - title: 'Projects'
+      url: '/projects'
     - title: 'Contact'
       url: '/contact'
+    
 
 footer_settings:
   footer_tagline: Giving "Simple Ledger Protocol" a new meaning!
