@@ -8,7 +8,7 @@ featured_image: /images/projects.jpg
 
 ## SmartSwap Development/Liquidity Funding Event #1
 
-Event Start Date: November 1, 2020
+|Event Start Date: November 1, 2020|
 Event End Date: December 1, 2020
 Funding Target: 25 BCH
 Development Start Date: TBD
