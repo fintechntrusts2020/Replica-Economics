@@ -18,9 +18,8 @@ Welcome to the SLP economic hub, whether or not we are aware, economics impact a
 + Token Symbol: REP
 + Token Name: Replica
 + Token Supply(Not Fixed): 100,000,000.0
-+ Interest Reservation: 75% of Token Supply(75,000,000.0)
++ Dividend Distribution Supply: (75,000,000.0)
 + Available Circulating Supply: (200,000.0)
-+ Circulating Supply API Coming Soon. 
 
 ## Additional Network Tokens
 
