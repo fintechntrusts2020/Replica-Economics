@@ -13,8 +13,7 @@ featured_image: /images/projects.jpg
 |Funding Target: 25 BCH            | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
-
-* ***Development estimation time is roughly a few weeks.*** 
+***Development estimation time is roughly a few weeks.*** 
 
 **SmartSwap**: 
 
