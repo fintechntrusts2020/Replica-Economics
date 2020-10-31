@@ -42,3 +42,9 @@ Imagine having the convenience of setting your dividend calculator to distribute
 
 ***All remaining funds will be reserved for the SmartSwap once development has concluded.*** 
 
+To Participate in liquidity funding, please purchase REP from the following exchanges. All proceeds will be used for development and liquidity pool. 
+
+ * [Anycoin.cash](https://www.anycoin.cash/)
+   (Supplied 12,500,000.0 REP 10/4/20-10/31/20)
+  * [Memo.cash](https://memo.cash/token/cf83b1400aa9b6dbfdcdd8857571220a3e854b0188edabd260119edd8b57d3e3?for-sale)
+   (Supplied 12,500,000.0 REP 10/5/20-10/31/20)
