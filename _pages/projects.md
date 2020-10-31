@@ -33,7 +33,11 @@ SmartSwap will be one of first exclusive stand alone defi based exchanges for th
 
 Imagine having the convenience of setting your dividend calculator to distribute dividends on a frequent basis at a certain fixed or variable rate. We are seeking assistance to make sure SLP Token creators can distribute dividends in a more complex manner without breaking a sweat. 
 
-**Liqudity Funding**
+## Liqudity Funding Event
 
+|Event Start Date: December 1, 2020|
+|Event End Date: January 1, 2021   |          | 
+|Development Start Date: TBD       |
+|Development End Date: TBD         |
 All remaining funds will be reserved for the SmartSwap once development has concluded. 
 
