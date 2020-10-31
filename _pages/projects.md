@@ -10,7 +10,7 @@ featured_image: /images/projects.jpg
 
 |Event Start Date: November 1, 2020|
 |Event End Date: December 1, 2020  |
-|Funding Target: 25 BCH            | 
+|Funding Target: 50 BCH            | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
 
@@ -25,7 +25,7 @@ SmartSwap will be one of first exclusive stand alone defi based exchanges for th
 
 |Event Start Date: November 1, 2020|
 |Event End Date: December 1, 2020  |
-|Funding Target: 25 BCH            | 
+|Funding Target: 50 BCH            | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
 
@@ -39,7 +39,9 @@ Imagine having the convenience of setting your dividend calculator to distribute
 |Event End Date: January 1, 2021   |          
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
+|Listing Price: 5x                 |
 
+***The Listing Price will be 5x whatever the market rate is before launch.***
 ***All remaining funds will be reserved for the SmartSwap once development has concluded.*** 
 
 To Participate in liquidity funding, please purchase REP from the following exchanges. All proceeds will be used for development and liquidity pool. 
@@ -48,3 +50,5 @@ To Participate in liquidity funding, please purchase REP from the following exch
    (Supplied 12,500,000.0 REP 10/4/20-10/31/20)
   * [Memo.cash](https://memo.cash/token/cf83b1400aa9b6dbfdcdd8857571220a3e854b0188edabd260119edd8b57d3e3?for-sale)
    (Supplied 12,500,000.0 REP 10/5/20-10/31/20)
+   
+ 
