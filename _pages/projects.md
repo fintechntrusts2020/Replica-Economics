@@ -35,5 +35,5 @@ Imagine having the convenience of setting your dividend calculator to distribute
 
 **Liqudity Funding**
 
-All remaining funds will be kept as resevoir for the platform once development has concluded. 
+All remaining funds will be reserved for the SmartSwap once development has concluded. 
 
