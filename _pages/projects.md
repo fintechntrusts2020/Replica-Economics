@@ -39,5 +39,6 @@ Imagine having the convenience of setting your dividend calculator to distribute
 |Event End Date: January 1, 2021   |          | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
-All remaining funds will be reserved for the SmartSwap once development has concluded. 
+
+***All remaining funds will be reserved for the SmartSwap once development has concluded.*** 
 
