@@ -44,4 +44,9 @@ Coming Soon...
 
 [Simple Ledger Protocol News](https://simpleledger.cash/blog/)
 
-[Tutorials](https://www.youtube.com/playlist?list=PLRrNLF1aV3rt-MQKnLLM9RP7Wtr84UtNh)
+## Tutorials
+
+* General
+[SLP](https://www.youtube.com/playlist?list=PLRrNLF1aV3rt-MQKnLLM9RP7Wtr84UtNh)
+* Paper Wallets
+[BCH/SLP](https://www.youtube.com/playlist?list=PLRrNLF1aV3rt-MQKnLLM9RP7Wtr84UtNh)
