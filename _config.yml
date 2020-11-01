@@ -1,7 +1,7 @@
 site:
 
-url: https://replica-eco.net
-baseurl: '/'
+url: 
+baseurl: 
 
 collections:
   pages:
