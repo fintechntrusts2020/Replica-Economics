@@ -1,7 +1,7 @@
 site:
 
-url:
-baseurl: '/Replica-Economics'
+url: https://replica-eco.net
+baseurl: '/'
 
 collections:
   pages:
