@@ -15,6 +15,7 @@ Welcome to the SLP economic hub, whether or not we are aware, economics impact a
 
 ## Replica Token Specifications
 
++ Token ID: cf83b1400aa9b6dbfdcdd8857571220a3e854b0188edabd260119edd8b57d3e3
 + Token Symbol: REP
 + Token Name: Replica
 + Token Supply(Not Fixed): 100,000,000.0
