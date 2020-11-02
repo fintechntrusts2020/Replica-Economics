@@ -45,7 +45,7 @@ Imagine having the convenience of setting your dividend calculator to distribute
 |Development End Date: TBD         |
 |Listing Price: 5x                 |
 
-***The Listing Price will be 5x whatever the market rate is before launch.***
+***The Listing Price will be 5x the market rate is before launch.***
 
 ***All remaining funds will be reserved for the SmartSwap app once development has concluded.*** 
 
