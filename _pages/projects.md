@@ -24,8 +24,9 @@ Visual Concept:
 
 ![](../images/Smartswapex.jpeg)
 
+Sample this technology here: [Permissionless Software Foundation](https://psfoundation.cash/)
 
-## Automated Dividend Calculator/Liquidity Funding Event #1
+#)# Automated Dividend Calculator/Liquidity Funding Event #1
 
 |Event Start Date: November 1, 2020|
 |Event End Date: December 1, 2020  |
