@@ -25,6 +25,7 @@ Visual Concept:
 ![](../images/Smartswapex.jpeg)
 
 Sample this technology here: [Permissionless Software Foundation](https://psfoundation.cash/)
+**This is a reference only, the app does not contain exchange functionality**
 
 #)# Automated Dividend Calculator/Liquidity Funding Event #1
 
@@ -33,6 +34,9 @@ Sample this technology here: [Permissionless Software Foundation](https://psfoun
 |Funding Target: 50 BCH            | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
+
+Sample this technology here: [SLP Dividend Calculator](https://tools.bitcoin.com/slp-dividend-calculator/)
+**This is a reference only, the app does not contain automation**
 
 **Automated Dividend Calculator**
 
