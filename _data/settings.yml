@@ -37,6 +37,7 @@ contact_settings:
 
 social_settings:
   facebook_url: 'https://www.facebook.com/ReplicaEconomics/'
+  facebook_url: 'https://www.facebook.com/groups/992481497894018/?ref=share'
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
@@ -62,7 +63,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
-  telegram_rul: ''
+  telegram_url: 'https://t.me/replica_economics'
 
 color_settings:
   background_color: '#ffffff'
