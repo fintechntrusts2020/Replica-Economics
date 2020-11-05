@@ -57,3 +57,16 @@ paginate: 6
 paginate_path: "/mission/page:num/"
 
 
+logo: /images/
+
+social:
+  name: Replica Economics
+  links:
+    - https://facebook.com/ReplicaEconomics
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/
+      author: Replica Economics
