@@ -2,7 +2,7 @@
 title: Projects
 lang: en
 subtitle: Our Vision
-description: The history behind Replica
+description: An overview of pending and completed development projects. 
 featured_image: /images/projects.jpg
 ---
 
