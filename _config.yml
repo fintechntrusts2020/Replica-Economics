@@ -57,7 +57,7 @@ paginate: 6
 paginate_path: "/mission/page:num/"
 
 
-logo: /images/
+logo: /images/replica_logo_2.jpeg
 
 social:
   name: Replica Economics
@@ -68,5 +68,5 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/
+      image: /images/replica_logo_2.jpeg
       author: Replica Economics
