@@ -26,7 +26,7 @@ Visual Concept:
 
 Sample this technology here: [Permissionless Software Foundation](https://psfoundation.cash/)
 
-**This is a reference only, the app does not contain exchange functionality**
+**The link above is a reference only**
 
 ## Automated Dividend Calculator/Liquidity Funding Event #1
 
