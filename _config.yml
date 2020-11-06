@@ -55,25 +55,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/mission/page:num/"
-
-
-logo: /images/replica_logo_2.jpeg
-
-social:
-  name: Replica Economics
-  links:
-    - https://facebook.com/ReplicaEconomics
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /images/replica_logo_2.jpeg
-      author: Replica Economics
-      
-webmaster_verifications:
-  google: 1234
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234      
