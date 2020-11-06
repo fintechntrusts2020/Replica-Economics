@@ -18,7 +18,7 @@ featured_image: /images/projects.jpg
 
 ## **SmartSwap v.1**: 
 
-SmartSwap will be one of first exclusive stand alone defi based exchanges for the SLP network. We are looking to make this opensource for the community to maintain growth and decentralization. We aspire that token creators will no longer have to relay on centralized exchanges nor other platforms for token facilitation and finance. 
+SmartSwap will be one of first exclusive stand alone defi based exchanges for the SLP network. We are looking to make this opensource for the community to maintain growth and decentralization. We aspire that token creators will no longer have to rely on centralized exchanges nor other platforms for token facilitation and finance. 
 
 Visual Concept:
 
