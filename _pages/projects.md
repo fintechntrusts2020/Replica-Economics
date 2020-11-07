@@ -63,5 +63,5 @@ To Participate in liquidity funding, please purchase REP from the following exch
  * [Memo.cash](https://memo.cash/token/cf83b1400aa9b6dbfdcdd8857571220a3e854b0188edabd260119edd8b57d3e3?for-sale)
    (Supplied 12,500,000.0 REP 10/5/20-10/31/20)
    
-To track funding progress please view the following link: [Developmnt/Liquidity Event Pool](https://explorer.bitcoin.com/bch/address/bitcoincash:qphpfsfnteu7t0v32tpyr7qdpf6lg5rwtvs3te4zy3)
+To track funding progress please view the following link: [Developmnt/Liquidity Event Pool](https://drive.google.com/file/d/1G3qVTeziXP-fgd0kW4w7RENAMVkqChKq/view?usp=sharing)
  
