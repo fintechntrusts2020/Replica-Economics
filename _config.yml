@@ -3,6 +3,8 @@ site:
 url: http://replica-eco.net/
 baseurl: ''
 
+google_analytics: "G-GHC8K7LWVE"
+
 collections:
   pages:
     output: true
@@ -55,3 +57,4 @@ plugins:
 
 paginate: 6
 paginate_path: "/mission/page:num/"
+
