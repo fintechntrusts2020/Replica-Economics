@@ -6,13 +6,15 @@ description: An overview of pending and completed development projects.
 featured_image: /images/projects.jpg
 ---
 
-## SmartSwap Development/Liquidity Funding Event #1
+## SmartSwap Development/Liquidity Funding Event #2
 
-|Event Start Date: November 1, 2020|
-|Event End Date: December 1, 2020  |
-|Funding Target: 50 BCH            | 
+|Event Start Date: December 1, 2020|
+|Event End Date: January 1, 2021   |
+|Funding Target: 49.01276878 BCH   | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
+|Event #1 Total Funding: 0.1276878 BCH|
+
 
 ***Development estimation time is roughly a few weeks.*** 
 
@@ -28,13 +30,14 @@ Sample this technology here: [Permissionless Software Foundation](https://psfoun
 
 **The link above is a reference only**
 
-## Automated Dividend Calculator/Liquidity Funding Event #1
+## Automated Dividend Calculator/Liquidity Funding Event #2
 
-|Event Start Date: November 1, 2020|
-|Event End Date: December 1, 2020  |
-|Funding Target: 50 BCH            | 
+|Event Start Date: December 1, 2020|
+|Event End Date: January 1, 2021   |
+|Funding Target: 49.01276878 BCH   | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
+|Event #1 Total Funding: 0.1276878 BCH|
 
 Sample this technology here: [SLP Dividend Calculator](https://tools.bitcoin.com/slp-dividend-calculator/)
 
@@ -44,13 +47,14 @@ Sample this technology here: [SLP Dividend Calculator](https://tools.bitcoin.com
 
 Imagine having the convenience of setting your dividend calculator to distribute dividends on a frequent basis at a certain fixed or variable rate. We are seeking assistance to make sure SLP Token creators can distribute dividends in a more complex manner without breaking a sweat. 
 
-## Liqudity Funding Event #1
+## Liqudity Funding Event #2
 
 |Event Start Date: December 1, 2020|
 |Event End Date: January 1, 2021   |          
 |Development Date: TBD             |
 |Development End Date: TBD         |
 |Listing Price: 5x                 |
+|Event #1 Total Funding: 0.1276878 BCH|
 
 ***The Listing Price will be 5x the highest market rate before launch.***
 
