@@ -10,7 +10,7 @@ featured_image: /images/projects.jpg
 
 |Event Start Date: December 1, 2020|
 |Event End Date: January 1, 2021   |
-|Funding Target: 49.01276878 BCH   | 
+|Funding Target: 49.8723122 BCH    | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
 |Event #1 Total Funding: 0.1276878 BCH|
@@ -34,7 +34,7 @@ Sample this technology here: [Permissionless Software Foundation](https://psfoun
 
 |Event Start Date: December 1, 2020|
 |Event End Date: January 1, 2021   |
-|Funding Target: 49.01276878 BCH   | 
+|Funding Target: 49.8723122 BCH    |  
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
 |Event #1 Total Funding: 0.1276878 BCH|
