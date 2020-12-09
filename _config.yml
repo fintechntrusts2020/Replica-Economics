@@ -51,6 +51,7 @@ sass:
   style: compressed
 
 plugins:
+  - jekyll-multiple-languages-plugin
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
