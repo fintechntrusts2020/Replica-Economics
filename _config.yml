@@ -1,7 +1,9 @@
-site: Replica Economics
+site:
 
-url: 
-baseurl: /Replica-Economics
+url: http://replica-eco.net/
+baseurl: ''
+
+google_analytics: "G-GHC8K7LWVE"
 
 collections:
   pages:
@@ -49,9 +51,11 @@ sass:
   style: compressed
 
 plugins:
+  - jekyll-multiple-languages-plugin
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 paginate: 6
 paginate_path: "/mission/page:num/"
-  
+

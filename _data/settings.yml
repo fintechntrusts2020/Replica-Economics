@@ -9,13 +9,16 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Overview'
-      url: ''
+      url: '/'
     - title: 'Mission'
       url: '/mission/'
     - title: 'Origin'
       url: '/origin'
+    - title: 'Projects'
+      url: '/projects'
     - title: 'Contact'
       url: '/contact'
+    
 
 footer_settings:
   footer_tagline: Giving "Simple Ledger Protocol" a new meaning!
@@ -59,7 +62,7 @@ social_settings:
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''
-  telegram_rul: ''
+  telegram_url: 'https://t.me/replica_economics'
 
 color_settings:
   background_color: '#ffffff'
