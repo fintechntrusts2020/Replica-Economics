@@ -15,7 +15,6 @@ featured_image: /images/projects.jpg
 |Development End Date: TBD         |
 |Event #1 Total Funding: 0.1276878 BCH|
 
-
 ***Development estimation time is roughly a few weeks.*** 
 
 ## **SmartSwap v.2**
