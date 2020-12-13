@@ -18,13 +18,22 @@ featured_image: /images/projects.jpg
 
 ***Development estimation time is roughly a few weeks.*** 
 
-## **SmartSwap v.1**
+## **SmartSwap v.2**
 
 SmartSwap will be one of first exclusive stand alone defi based exchanges for the SLP network. We are looking to make this opensource for the community to maintain growth and decentralization. We aspire that token creators will no longer have to rely on centralized exchanges nor other platforms for token facilitation and finance. 
 
+**V.2(Update 12/12/20)**
+
+***Vault***
+Experience instant value by storing your cryptocurrency inside of the Smartswap Vault! This feature will help add base value to new SLP tokens permanently! For example, if your SLP token has an available token supply of 50,000, and you deposit $50 in BCH into the vault, your SLP token will have an accumulative value of $50 in BCH. The value of your token will be pegged to the Bitcoin Cash price. 
+
+***Metric Updates***
+
+24 hour high,24 hour low, vault, and liquidity. 
+
 Visual Concept:
 
-![](../images/Smartswapex.jpeg)
+![](../images/SmartSwapv2.jpeg)
 
 Sample this technology here: [Permissionless Software Foundation](https://psfoundation.cash/)
 
