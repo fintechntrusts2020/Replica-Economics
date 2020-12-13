@@ -27,6 +27,14 @@ SmartSwap will be one of first exclusive stand alone defi based exchanges for th
 ***Vault***
 Experience instant value by storing your cryptocurrency inside of the Smartswap Vault! This feature will help add base value to new SLP tokens permanently! For example, if your SLP token has an available token supply of 50,000, and you deposit $50 in BCH into the vault, your SLP token will have an accumulative value of $50 in BCH. The value of your token will be pegged to the Bitcoin Cash price. 
 
+***Scroll***
+
+Scroll functionality will be added for SmartSwap users that would like to add Bitcoin Cash alternatives.
+
+***Search***
+
+For users with multiple coin/token pairs, a search engine will be integrated. 
+
 ***Metric Updates***
 
 24 hour high,24 hour low, vault, and liquidity. 
