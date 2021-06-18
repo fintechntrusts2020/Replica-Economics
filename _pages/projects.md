@@ -13,7 +13,7 @@ The Replica community will be donating time and financial resources continuously
 
 If you're interested in donating, please donate to the BCH address on the donation page: |[Donate](https://replica-eco.net/mis/demo-post)|
 For SLP community updates, join us on telegram: |[Simple Ledger Protocol](https://t.me/simpleledger)|
-For SLP development updates, join us on telegram: |[SLP Swap Development](https://t.me/slpost)||[Permissionless Software Foundation](https://t.me/permissionless_software)|
+For SLP development updates, join us on telegram: |[SLP Swap Development](https://t.me/slpost),[Permissionless Software Foundation](https://t.me/permissionless_software)|
 Github Link(s) for SLP Swap: |[SLP Swap](https://github.com/vinarmani/slpswap-client)|
 
 
