@@ -6,15 +6,35 @@ description: An overview of pending and completed development projects.
 featured_image: /images/projects.jpg
 ---
 
-## SmartSwap Development/Liquidity Funding Event #3
 
-|Event Start Date: January 1, 2021 |
-|Event End Date: Feburary 1, 2021  |
-|Funding Target: 49.69555428 BCH   | 
+## SLP Swap Protocol Development
+
+The Replica community will be donating time and financial resources continuously for development. 
+
+If you're interested in donating, please donate to the BCH address on the donation page: [Donate](https://replica-eco.net/mis/demo-post)
+For SLP community updates, join us on telegram: [Simple Ledger Protocol](https://t.me/simpleledger)
+For SLP development updates, join us on telegram: [SLP Swap Development](https://t.me/slpost)
+                                                   [Permissionless Software Foundation](https://t.me/permissionless_software)
+
+Github Link(s) for SLP Swap: [SLP Swap](https://github.com/vinarmani/slpswap-client)
+
+
+## Replica GPS Forex Token
+
+Late 2021, Replica will create a token directly associated with Forex and MT4. Replica supporters will be able to purchase GPS Forex Tokens and earn monthly yields.
+We will provide more information soon.
+
+
+## SmartSwap Development/(TBD)
+
+|Event Start Date: TBD |
+|Event End Date: TBD  |
+|Funding Target: TBD   | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
-|Event #1 Total Funding: 0.1276878 BCH|
-|Event #2 Total Funding: 0.17675792 BCH|
+
+**Project Update(6/18/21)**
+The Smartswap project has been delayed due to BCH/SLP development updates. Replica is currently assisting in SLP Swap protocol development.
 
 ***Development estimation time is roughly a few weeks.*** 
 
@@ -47,15 +67,13 @@ Sample this technology here: [Permissionless Software Foundation](https://psfoun
 
 **The link above is a reference only**
 
-## Automated Dividend Calculator/Liquidity Funding Event #3
+## Automated Dividend Calculator/TBD
 
-|Event Start Date: January 1, 2021 |
-|Event End Date: Feburary 1, 2021  |
-|Funding Target: 49.69555428 BCH   | 
+|Event Start Date: TBD |
+|Event End Date: TBD  |
+|Funding Target: TBD   | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
-|Event #1 Total Funding: 0.1276878 BCH|
-|Event #2 Total Funding: 0.17675792 BCH|
 
 Sample this technology here: [SLP Dividend Calculator](https://tools.bitcoin.com/slp-dividend-calculator/)
 
@@ -72,19 +90,4 @@ Imagine having the convenience of setting your dividend calculator to distribute
 |Funding Target: 49.69555428 BCH   | 
 |Development Start Date: TBD       |
 |Development End Date: TBD         |
-|Event #1 Total Funding: 0.1276878 BCH|
-|Event #2 Total Funding: 0.17675792 BCH|
-
-***The Listing Price will be 5x the highest market rate before launch.***
-
-***All remaining funds will be reserved for the SmartSwap app once development has concluded.*** 
-
-To Participate in liquidity funding, please purchase REP from the following exchanges. All proceeds will be used for development and liquidity pool. 
-
- * [Anycoin.cash](https://www.anycoin.cash/)
-   (Supplied 12,500,000.0 REP 10/4/20-10/31/20)
- * [Memo.cash](https://memo.cash/token/cf83b1400aa9b6dbfdcdd8857571220a3e854b0188edabd260119edd8b57d3e3?for-sale)
-   (Supplied 12,500,000.0 REP 10/5/20-10/31/20)
-   
-To track funding progress please view the following link: [Development/Liquidity Event Pool](https://drive.google.com/file/d/1kchJVtUDHSp0yOIYgkFL5wCY7l45o1p0/view?usp=sharing)
  
