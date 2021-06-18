@@ -19,10 +19,12 @@ For SLP development updates, join us on telegram: [SLP Swap Development](https:/
 Github Link(s) for SLP Swap: [SLP Swap](https://github.com/vinarmani/slpswap-client)
 
 
+
 ## Replica GPS Forex Token
 
 Late 2021, Replica will create a token directly associated with Forex and MT4. Replica supporters will be able to purchase GPS Forex Tokens and earn monthly yields.
 We will provide more information soon.
+
 
 
 ## SmartSwap Development/(TBD)
@@ -82,12 +84,3 @@ Sample this technology here: [SLP Dividend Calculator](https://tools.bitcoin.com
 **Automated Dividend Calculator**
 
 Imagine having the convenience of setting your dividend calculator to distribute dividends on a frequent basis at a certain fixed or variable rate. We are seeking assistance to make sure SLP Token creators can distribute dividends in a more complex manner without breaking a sweat. 
-
-## Liqudity Funding Event #3
-
-|Event Start Date: January 1, 2021 |
-|Event End Date: Feburary 1, 2021  |
-|Funding Target: 49.69555428 BCH   | 
-|Development Start Date: TBD       |
-|Development End Date: TBD         |
- 
