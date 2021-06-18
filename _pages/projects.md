@@ -15,7 +15,6 @@ If you're interested in donating, please donate to the BCH address on the donati
 For SLP community updates, join us on telegram: |[Simple Ledger Protocol](https://t.me/simpleledger)|
 For SLP development updates, join us on telegram: |[SLP Swap Development](https://t.me/slpost)|
                                                    |[Permissionless Software Foundation](https://t.me/permissionless_software)|
-
 Github Link(s) for SLP Swap: |[SLP Swap](https://github.com/vinarmani/slpswap-client)|
 
 
