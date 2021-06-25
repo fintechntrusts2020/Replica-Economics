@@ -20,8 +20,8 @@ Github Link(s) for SLP Swap: |[SLP Swap](https://github.com/vinarmani/slpswap-cl
 
 ## Replica GPS Forex Token
 
-Late 2021, Replica will create a token directly associated with Forex and MT4. Replica supporters will be able to purchase GPS Forex Tokens and earn monthly yields.
-We will provide more information soon.
+Replica will create a token directly associated with Forex and MT4. Replica supporters will be able to purchase GPS Forex Tokens and earn monthly yields.
+This section will be updated accordingly as new developments occur.
 
 
 
